@@ -2,8 +2,8 @@
 
 A Common Lisp text splitting library
 
-|---------+-------------------------------------------------|
-| source  | git:git@github.com:atgreen/cl-text-splitter.git |
-| commit  | cc1a420                                         |
-| systems | text-splitter                                   |
-|---------+-------------------------------------------------|
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/atgreen/cl-text-splitter.git |
+| commit  | cc1a420                                             |
+| systems | text-splitter                                       |
+|---------+-----------------------------------------------------|
