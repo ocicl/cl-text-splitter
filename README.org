@@ -4,6 +4,6 @@ A Common Lisp text splitting library
 
 |---------+-----------------------------------------------------|
 | source  | git:https://github.com/atgreen/cl-text-splitter.git |
-| commit  | e17435c                                             |
+| commit  | 21a7f74                                             |
 | systems | text-splitter                                       |
 |---------+-----------------------------------------------------|
